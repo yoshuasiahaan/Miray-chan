@@ -8,8 +8,8 @@ Simple WhatsApp Bot
 > pkg install nodejs -y
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
-> git clone https://github.com/Arya274/Arya-DN
-> cd Arya-DN
+> git clone https://github.com/Akbarsans/Miray-chan
+> cd Miray-chan
 > npm install
 ```
 ###### Run
@@ -21,8 +21,8 @@ Simple WhatsApp Bot
 
 ### FOR WINDOWS/VPS/RDP USER
 ```bash
-> git clone https://github.com/Arya274/Arya-DN
-> cd Arya-DN
+> git clone https://github.com/Akbarsans/Miray-chan
+> cd Miray-chan
 > npm install
 ```
 ###### Run
@@ -32,8 +32,8 @@ Simple WhatsApp Bot
 
 # Sosmed
 ```Thanks @Nurotomo
-> Instagram: @arpunchs
-> YouTube: Drawl Nag
-> WhatsApp: 0882-3543-5804
+> Instagram: instagram.com/akbarsan3
+> YouTube: youtube.com/c/aaakbar
+> WhatsApp: 085890216240
 > Credit: Nurotomo
 ```
