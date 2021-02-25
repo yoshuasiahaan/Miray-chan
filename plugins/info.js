@@ -5,21 +5,21 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
 ╠➵ Rec: aa akbar
 ╠➵ Script: @Nurotomo
 ║
-╠➵ Github: https://github.com/Akbarsans
-╠➵ Instagram: instagram.com/akbarsan3
-╠➵ YouTube: youtube.com/aaakbar
+╠➵ Github: https://github.com
+╠➵ Instagram: instagram.com/yoshuaxaan
+╠➵ YouTube: youtube.com/channel/UC9aSdgHbFGjv9O9L5YAXZzg
 ║
 ╠═〘 Thanks To 〙 ═
-╠➵ Nurotomo
-╠➵ MfarelS
-╠➵ ST4RZ
-╠➵ Arya274
+╠➵ kazuee official
+╠➵ @yoshuaxaan
+╠➵ Yoshua
+╠➵ Yoshua Yos
 ╠➵ Dan kawan yang lain :)
 ║
 ╠═〘 DONASI 〙 ═
 ╠➵ ketik .donasi
 ║
-╠═〘 Mirai Kuriyama 〙 ═
+╠═〘 *YOSHOBOBT* 〙 ═
 `.trim(), m)
 }
 handler.help = ['info']
